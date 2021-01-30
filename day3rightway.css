@@ -1,0 +1,46 @@
+.green  {
+    color: springgreen;
+    }
+    
+    .big    {
+    font-size: 25px;
+    line-height: 30px;
+    }
+    .bold {
+    font-weight: 900;
+    }
+    
+    div {
+        height: 100px;
+        width: 100px;
+        border: 1px fuchsia;
+    }
+
+    .box-1  {
+        background-color: firebrick;
+    }
+    
+    .box-2  {
+        
+        background-color: #4169e1;   
+    }
+    
+    body {
+
+        background-color: darkgrey;
+    
+    }
+    
+    #cool-font {
+        font-style: oblique;
+    }
+    
+    .border {
+        border: 3px solid steelblue;
+        border-radius: 25px;
+        background-image: url("eclipse.jpg");
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+    
