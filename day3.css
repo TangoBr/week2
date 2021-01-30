@@ -1,0 +1,45 @@
+#red {
+color: orangered;
+}
+
+.green  {
+color: springgreen;
+}
+
+.big    {
+font-size: 25px;
+line-height: 30px;
+}
+.bold {
+font-weight: 900;
+}
+
+div {
+    color: red;
+    height: 100px;
+    width: 100px;
+}
+
+.box-1  {
+
+}
+
+.box-2  {
+    color: #4169e1   
+}
+
+b {
+    color: darkgrey;
+
+}
+
+#cool-font {
+    font-style: oblique;
+}
+
+.border {
+    width: 3px;
+    border-style: solid;
+    color: steelblue;
+    background-image: url(eclipse.jpg\)
+}
